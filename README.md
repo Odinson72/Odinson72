@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Odinson72
+- 👀 I’m interested in learning full stack skills to persue a new career path
+- 🌱 I’m currently learning coding from scratch
+- 💞️ I’m looking to collaborate on anything that I can understand, which isn't musch right now
